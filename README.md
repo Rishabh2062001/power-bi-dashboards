@@ -15,8 +15,7 @@ Explore my Power BI projects below. Each dashboard has its own dedicated README 
 **An interactive dashboard for exploring the data job market and analyzing job-related trends.**
 
 ### 🌐 Dashboard Preview
-- **[View Interactive Dashboard on Power BI Service](YOUR_POWER_BI_DASHBOARD_LINK)**
-- **[View Project 1 Details (README)](./Project_1/README.md)**
+![Data Jobs Dashboard](./main_dashboard.png)
 
 ### 🛠️ Key Power BI Skills
 
@@ -33,15 +32,32 @@ Explore my Power BI projects below. Each dashboard has its own dedicated README 
 
 ---
 
-## 📊 2. Data Jobs Dashboard 2.0 (V2 — Advanced Single-Page Dashboard)
+# 🎯 Data Analyst Job Drill-Through Dashboard
 
-**An enhanced version focused on a streamlined user experience, advanced data modeling, dynamic analysis, and improved dashboard design.**
+## 📌 Overview
+An interactive Power BI report page for exploring Data Analyst job opportunities, salaries, benefits, and employment trends using drill-through functionality.
 
-### 🌐 Dashboard Preview
-- **[View Interactive Dashboard on Power BI Service](YOUR_POWER_BI_DASHBOARD_LINK)**
-- **[View Project 2 Details (README)](./Project_2/README.md)**
+## 🖼️ Dashboard Preview
+![Data Analyst Drill-Through Dashboard](./drill_down.png)
 
-### 🛠️ Key Power BI Skills
+## 📊 Key Features
+
+- 💰 **Salary Analysis:** Median yearly and hourly salary benchmarks.
+- 🏠 **Remote Work:** Comparison of work-from-home opportunities.
+- 🎓 **Degree Requirements:** Analysis of degree mentions in job postings.
+- 🏥 **Health Insurance:** Overview of insurance mentions.
+- 🌍 **Geographic Analysis:** Job distribution and salary by country.
+- 💼 **Job Types:** Full-time, contract, internship, part-time, and temporary roles.
+
+## 🛠️ Power BI Skills
+- Power Query and data transformation
+- Data modeling and relationships
+- KPI cards and interactive visualizations
+- Drill-through filters and page navigation
+- Maps, doughnut charts, and treemaps
+
+## 🎯 Objective
+To transform job posting data into interactive visual insights that help users explore salary trends, benefits, and Data Analyst career opportunities.
 
 - 🎨 Advanced Dashboard Design and Single-Page User Experience
 - ⚙️ Complex Power Query Transformations
